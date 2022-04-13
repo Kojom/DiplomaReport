@@ -4,3 +4,4 @@ https://youtu.be/f3O9P9x1eCE		-		doom old ai
 https://youtu.be/2KQNpQD8Ayo		-		doom new ai
 https://www.ea.com/ru-ru/games/starwars/battlefront/star-wars-battlefront-2/news/ai-article-deep-dive		-		star wars battlefront II ai
 https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/		-		блюпринты
+https://club.dns-shop.ru/blog/t-64-videoigryi/34701-chto-takoe-igrovoi-dvijok/		-		игровой движок
